@@ -14,7 +14,7 @@ This projet also gives insights into:
 
 ## 🌟 About Me
  
- Hi there! I'm Aanchal Rai, a third year Mechanical engineering student interested in Dta analytics. I have a strong interest in data analytics, data architecture, and related fields. Passionate about leveraging data-driven insights to solve complex problems and optimize processes. Seeking opportunities to apply analytical skills and technical expertise in real-world projects.
+ Hi there! I'm Aanchal Rai, a third year Mechanical engineering student at **NIT SURAT** interested in Dta analytics. I have a strong interest in data analytics, data architecture, and related fields. Passionate about leveraging data-driven insights to solve complex problems and optimize processes. Seeking opportunities to apply analytical skills and technical expertise in real-world projects.
  ## 🛡️ License
  
  This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
